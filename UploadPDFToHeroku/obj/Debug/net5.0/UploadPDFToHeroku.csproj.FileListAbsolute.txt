@@ -1,0 +1,16 @@
+D:\MyProjects\UploadFileToHeroku\UploadPDFToHeroku\UploadPDFToHeroku\bin\Debug\net5.0\UploadPDFToHeroku.exe
+D:\MyProjects\UploadFileToHeroku\UploadPDFToHeroku\UploadPDFToHeroku\bin\Debug\net5.0\UploadPDFToHeroku.deps.json
+D:\MyProjects\UploadFileToHeroku\UploadPDFToHeroku\UploadPDFToHeroku\bin\Debug\net5.0\UploadPDFToHeroku.runtimeconfig.json
+D:\MyProjects\UploadFileToHeroku\UploadPDFToHeroku\UploadPDFToHeroku\bin\Debug\net5.0\UploadPDFToHeroku.runtimeconfig.dev.json
+D:\MyProjects\UploadFileToHeroku\UploadPDFToHeroku\UploadPDFToHeroku\bin\Debug\net5.0\UploadPDFToHeroku.dll
+D:\MyProjects\UploadFileToHeroku\UploadPDFToHeroku\UploadPDFToHeroku\bin\Debug\net5.0\ref\UploadPDFToHeroku.dll
+D:\MyProjects\UploadFileToHeroku\UploadPDFToHeroku\UploadPDFToHeroku\bin\Debug\net5.0\UploadPDFToHeroku.pdb
+D:\MyProjects\UploadFileToHeroku\UploadPDFToHeroku\UploadPDFToHeroku\obj\Debug\net5.0\UploadPDFToHeroku.csproj.AssemblyReference.cache
+D:\MyProjects\UploadFileToHeroku\UploadPDFToHeroku\UploadPDFToHeroku\obj\Debug\net5.0\UploadPDFToHeroku.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProjects\UploadFileToHeroku\UploadPDFToHeroku\UploadPDFToHeroku\obj\Debug\net5.0\UploadPDFToHeroku.AssemblyInfoInputs.cache
+D:\MyProjects\UploadFileToHeroku\UploadPDFToHeroku\UploadPDFToHeroku\obj\Debug\net5.0\UploadPDFToHeroku.AssemblyInfo.cs
+D:\MyProjects\UploadFileToHeroku\UploadPDFToHeroku\UploadPDFToHeroku\obj\Debug\net5.0\UploadPDFToHeroku.csproj.CoreCompileInputs.cache
+D:\MyProjects\UploadFileToHeroku\UploadPDFToHeroku\UploadPDFToHeroku\obj\Debug\net5.0\UploadPDFToHeroku.dll
+D:\MyProjects\UploadFileToHeroku\UploadPDFToHeroku\UploadPDFToHeroku\obj\Debug\net5.0\ref\UploadPDFToHeroku.dll
+D:\MyProjects\UploadFileToHeroku\UploadPDFToHeroku\UploadPDFToHeroku\obj\Debug\net5.0\UploadPDFToHeroku.pdb
+D:\MyProjects\UploadFileToHeroku\UploadPDFToHeroku\UploadPDFToHeroku\obj\Debug\net5.0\UploadPDFToHeroku.genruntimeconfig.cache
